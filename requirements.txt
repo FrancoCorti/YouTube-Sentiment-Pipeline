@@ -1,0 +1,7 @@
+pandas
+pysentimiento
+matplotlib
+seaborn
+wordcloud
+python-dotenv
+google-api-python-client
